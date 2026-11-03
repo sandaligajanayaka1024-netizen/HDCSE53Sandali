@@ -1,0 +1,6 @@
+@HDCSE53Sandali_HostAddress = http://localhost:5281
+
+GET {{HDCSE53Sandali_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
